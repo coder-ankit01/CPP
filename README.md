@@ -1,5 +1,4 @@
-# CPP
-C++ Fundamentals Repository covering basic programming concepts, problem-solving techniques, and beginner-friendly examples for learning C++ from scratch.
+
 # C++ Fundamentals
 
 This repository contains C++ fundamental concepts and programs designed for beginners. It covers the core building blocks of programming and helps develop problem-solving skills.
